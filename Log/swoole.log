@@ -1,0 +1,28 @@
+[2019-06-22 18:27:48 $82940.0]	WARNING	swManager_check_exit_status: worker#4[pid=82953] abnormal exit, status=255, signal=0
+[2019-06-22 18:29:17 $83014.0]	WARNING	swManager_check_exit_status: worker#4[pid=83027] abnormal exit, status=255, signal=0
+[2019-06-22 18:32:25 $83129.0]	WARNING	swManager_check_exit_status: worker#4[pid=83142] abnormal exit, status=255, signal=0
+[2019-06-22 18:35:14 $83246.0]	WARNING	swManager_check_exit_status: worker#4[pid=83259] abnormal exit, status=255, signal=0
+[2019-06-22 18:50:36 *83417.6]	WARNING	swSignal_callback (ERROR 707): Unable to find callback function for signal Hangup: 1.
+[2019-06-22 18:50:36 $83401.0]	WARNING	swSignal_callback (ERROR 707): Unable to find callback function for signal Hangup: 1.
+[2019-06-22 18:50:36 $83401.0]	WARNING	swSignal_callback (ERROR 707): Unable to find callback function for signal Hangup: 1.
+[2019-06-22 18:50:36 $83401.0]	WARNING	swManager_check_exit_status: worker#15[pid=83410] abnormal exit, status=0, signal=1
+[2019-06-22 18:50:36 *83412.1]	WARNING	swSignal_callback (ERROR 707): Unable to find callback function for signal Hangup: 1.
+[2019-06-22 18:50:36 *83411.0]	WARNING	swSignal_callback (ERROR 707): Unable to find callback function for signal Hangup: 1.
+[2019-06-22 18:50:36 *83414.3]	WARNING	swSignal_callback (ERROR 707): Unable to find callback function for signal Hangup: 1.
+[2019-06-22 18:50:36 *83413.2]	WARNING	swSignal_callback (ERROR 707): Unable to find callback function for signal Hangup: 1.
+[2019-06-22 18:50:36 *83415.4]	WARNING	swSignal_callback (ERROR 707): Unable to find callback function for signal Hangup: 1.
+[2019-06-22 18:50:36 #83399.4]	WARNING	swSignal_callback (ERROR 707): Unable to find callback function for signal Hangup: 1.
+[2019-06-22 18:50:36 *83418.7]	WARNING	swSignal_callback (ERROR 707): Unable to find callback function for signal Hangup: 1.
+[2019-06-22 18:50:36 *83416.5]	WARNING	swSignal_callback (ERROR 707): Unable to find callback function for signal Hangup: 1.
+[2019-06-22 18:50:36 $83401.0]	WARNING	swManager_check_exit_status: worker#14[pid=83409] abnormal exit, status=0, signal=1
+[2019-06-22 18:50:36 $83401.0]	WARNING	swManager_check_exit_status: worker#13[pid=83408] abnormal exit, status=0, signal=1
+[2019-06-22 18:50:36 $83401.0]	WARNING	swManager_check_exit_status: worker#12[pid=83407] abnormal exit, status=0, signal=1
+[2019-06-22 18:50:36 $83401.0]	WARNING	swManager_check_exit_status: worker#11[pid=83406] abnormal exit, status=0, signal=1
+[2019-06-22 18:50:36 $83401.0]	WARNING	swManager_check_exit_status: worker#10[pid=83405] abnormal exit, status=0, signal=1
+[2019-06-22 18:50:36 $83401.0]	WARNING	swManager_check_exit_status: worker#9[pid=83404] abnormal exit, status=0, signal=1
+[2019-06-22 18:50:36 $83401.0]	WARNING	swManager_check_exit_status: worker#8[pid=83403] abnormal exit, status=0, signal=1
+[2019-06-22 18:52:13 #83399.4]	NOTICE	Server is shutdown now.
+[2019-06-25 11:40:50 $43873.0]	WARNING	swManager_check_exit_status: worker#4[pid=43886] abnormal exit, status=255, signal=0
+[2019-06-25 11:41:02 $43873.0]	WARNING	swManager_check_exit_status: worker#4[pid=43900] abnormal exit, status=255, signal=0
+[2019-06-25 11:43:17 $44047.0]	WARNING	swManager_check_exit_status: worker#4[pid=44060] abnormal exit, status=255, signal=0
+[2019-06-25 11:43:21 $44047.0]	WARNING	swManager_check_exit_status: worker#5[pid=44061] abnormal exit, status=255, signal=0
